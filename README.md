@@ -1,2 +1,3 @@
-# projeto-cordel
-Projeto do Cordel do Milton Doarte
+# html
+Curso de HTML e CSS do CursoemVideo
+estou aprendendo a criar site!
